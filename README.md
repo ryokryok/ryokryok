@@ -19,5 +19,5 @@ I am web application developer at Japan.
 
 ## Career
 
-- contracted development comapny (2019-2022)
-- temporary employee comapny (2018-2019)
+- contracted development company (2019-2022)
+- temporary employee company (2018-2019)
