@@ -1,16 +1,23 @@
-### Hi there 👋
+## Who?
 
-<!--
-**ryokryok/ryokryok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am web application developer at Japan.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Frontend
+  - React
+  - Next.js
+  - Webpack
+  - Vite
+- Backend
+  - Docker
+  - Ruby On Rails
+  - Node.js / TypeScript
+- DevOps
+  - AWS (a little)
+  - GitHub Actions
+
+## Career
+
+- contracted development comapny (2019-2022)
+- temporary employee comapny (2018-2019)
