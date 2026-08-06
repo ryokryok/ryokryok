@@ -2,8 +2,6 @@
 
 Freelance engineer based in Japan.
 
-![Mr_ozin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryokryok)
-
 > [!NOTE]
 > Open for hire!
 
