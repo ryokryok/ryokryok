@@ -1,14 +1,6 @@
 # Hi, I'm Mr_ozin
 
-Freelance engineer based in Japan.
-
-> [!NOTE]
-> Open for hire!
-
-## Looking for
-
-- Full stack project with vibe coding (e.g., Claude Code)
-- "Don't Be Evil" job
+Programmer based in Japan.
 
 ## Skills
 
@@ -21,7 +13,7 @@ Freelance engineer based in Japan.
 
 - Contract development company (2019-2022)
   - Rails, VBA, WordPress, etc.
-- Freelance (2022-present)
+- Freelance (2022-2026)
   - Next.js, TypeScript, GitHub Actions, etc.
 
 ## Contact
